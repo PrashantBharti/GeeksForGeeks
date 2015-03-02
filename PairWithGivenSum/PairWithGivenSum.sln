@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PairWithGivenSum", "PairWithGivenSum.vcxproj", "{5C5F3823-2E36-4CE4-A43A-784F6BCD6455}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MajorityElement", "..\MajorityElement\MajorityElement.vcxproj", "{FA4C42B6-F85E-4D28-85EA-137D186279D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -13,6 +15,10 @@ Global
 		{5C5F3823-2E36-4CE4-A43A-784F6BCD6455}.Debug|Win32.Build.0 = Debug|Win32
 		{5C5F3823-2E36-4CE4-A43A-784F6BCD6455}.Release|Win32.ActiveCfg = Release|Win32
 		{5C5F3823-2E36-4CE4-A43A-784F6BCD6455}.Release|Win32.Build.0 = Release|Win32
+		{FA4C42B6-F85E-4D28-85EA-137D186279D7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FA4C42B6-F85E-4D28-85EA-137D186279D7}.Debug|Win32.Build.0 = Debug|Win32
+		{FA4C42B6-F85E-4D28-85EA-137D186279D7}.Release|Win32.ActiveCfg = Release|Win32
+		{FA4C42B6-F85E-4D28-85EA-137D186279D7}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
