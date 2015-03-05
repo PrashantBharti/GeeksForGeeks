@@ -5,6 +5,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PairWithGivenSum", "PairWit
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MajorityElement", "..\MajorityElement\MajorityElement.vcxproj", "{FA4C42B6-F85E-4D28-85EA-137D186279D7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RotatedBinarySearch", "..\RotatedBinarySearch\RotatedBinarySearch.vcxproj", "{14FFC0C7-F00A-4ECC-A427-E34C09A6FA47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -19,6 +21,10 @@ Global
 		{FA4C42B6-F85E-4D28-85EA-137D186279D7}.Debug|Win32.Build.0 = Debug|Win32
 		{FA4C42B6-F85E-4D28-85EA-137D186279D7}.Release|Win32.ActiveCfg = Release|Win32
 		{FA4C42B6-F85E-4D28-85EA-137D186279D7}.Release|Win32.Build.0 = Release|Win32
+		{14FFC0C7-F00A-4ECC-A427-E34C09A6FA47}.Debug|Win32.ActiveCfg = Debug|Win32
+		{14FFC0C7-F00A-4ECC-A427-E34C09A6FA47}.Debug|Win32.Build.0 = Debug|Win32
+		{14FFC0C7-F00A-4ECC-A427-E34C09A6FA47}.Release|Win32.ActiveCfg = Release|Win32
+		{14FFC0C7-F00A-4ECC-A427-E34C09A6FA47}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
