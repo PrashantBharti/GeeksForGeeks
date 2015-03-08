@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MajorityElement", "..\Major
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RotatedBinarySearch", "..\RotatedBinarySearch\RotatedBinarySearch.vcxproj", "{14FFC0C7-F00A-4ECC-A427-E34C09A6FA47}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MedianOfSortedArrays", "..\MedianOfSortedArrays\MedianOfSortedArrays.vcxproj", "{8DB02931-BBC4-4A0A-846B-64AB4584E72A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -25,6 +27,10 @@ Global
 		{14FFC0C7-F00A-4ECC-A427-E34C09A6FA47}.Debug|Win32.Build.0 = Debug|Win32
 		{14FFC0C7-F00A-4ECC-A427-E34C09A6FA47}.Release|Win32.ActiveCfg = Release|Win32
 		{14FFC0C7-F00A-4ECC-A427-E34C09A6FA47}.Release|Win32.Build.0 = Release|Win32
+		{8DB02931-BBC4-4A0A-846B-64AB4584E72A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8DB02931-BBC4-4A0A-846B-64AB4584E72A}.Debug|Win32.Build.0 = Debug|Win32
+		{8DB02931-BBC4-4A0A-846B-64AB4584E72A}.Release|Win32.ActiveCfg = Release|Win32
+		{8DB02931-BBC4-4A0A-846B-64AB4584E72A}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
