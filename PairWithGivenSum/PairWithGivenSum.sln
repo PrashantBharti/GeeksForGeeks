@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaximumAs", "..\MaximumAs\M
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArrayRotation", "..\ArrayRotation\ArrayRotation.vcxproj", "{F5CE7732-9978-4750-9BF3-FFE8738D5605}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaximumAlternateSum", "..\MaximumAlternateSum\MaximumAlternateSum.vcxproj", "{45D16C7B-9CE8-448A-9E20-4A2AF72C4284}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -49,6 +51,10 @@ Global
 		{F5CE7732-9978-4750-9BF3-FFE8738D5605}.Debug|Win32.Build.0 = Debug|Win32
 		{F5CE7732-9978-4750-9BF3-FFE8738D5605}.Release|Win32.ActiveCfg = Release|Win32
 		{F5CE7732-9978-4750-9BF3-FFE8738D5605}.Release|Win32.Build.0 = Release|Win32
+		{45D16C7B-9CE8-448A-9E20-4A2AF72C4284}.Debug|Win32.ActiveCfg = Debug|Win32
+		{45D16C7B-9CE8-448A-9E20-4A2AF72C4284}.Debug|Win32.Build.0 = Debug|Win32
+		{45D16C7B-9CE8-448A-9E20-4A2AF72C4284}.Release|Win32.ActiveCfg = Release|Win32
+		{45D16C7B-9CE8-448A-9E20-4A2AF72C4284}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
