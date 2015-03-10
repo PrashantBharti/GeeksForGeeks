@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MedianOfSortedArrays", "..\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SquareOfNumber", "..\SquareOfNumber\SquareOfNumber.vcxproj", "{ED9245C3-7CD5-4114-82A9-0E27A44BFF3B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaximumAs", "..\MaximumAs\MaximumAs.vcxproj", "{F8FD15C8-4FEF-44D8-864E-2D94C371863B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -37,6 +39,10 @@ Global
 		{ED9245C3-7CD5-4114-82A9-0E27A44BFF3B}.Debug|Win32.Build.0 = Debug|Win32
 		{ED9245C3-7CD5-4114-82A9-0E27A44BFF3B}.Release|Win32.ActiveCfg = Release|Win32
 		{ED9245C3-7CD5-4114-82A9-0E27A44BFF3B}.Release|Win32.Build.0 = Release|Win32
+		{F8FD15C8-4FEF-44D8-864E-2D94C371863B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F8FD15C8-4FEF-44D8-864E-2D94C371863B}.Debug|Win32.Build.0 = Debug|Win32
+		{F8FD15C8-4FEF-44D8-864E-2D94C371863B}.Release|Win32.ActiveCfg = Release|Win32
+		{F8FD15C8-4FEF-44D8-864E-2D94C371863B}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
