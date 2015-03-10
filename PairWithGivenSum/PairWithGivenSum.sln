@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SquareOfNumber", "..\Square
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaximumAs", "..\MaximumAs\MaximumAs.vcxproj", "{F8FD15C8-4FEF-44D8-864E-2D94C371863B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArrayRotation", "..\ArrayRotation\ArrayRotation.vcxproj", "{F5CE7732-9978-4750-9BF3-FFE8738D5605}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -43,6 +45,10 @@ Global
 		{F8FD15C8-4FEF-44D8-864E-2D94C371863B}.Debug|Win32.Build.0 = Debug|Win32
 		{F8FD15C8-4FEF-44D8-864E-2D94C371863B}.Release|Win32.ActiveCfg = Release|Win32
 		{F8FD15C8-4FEF-44D8-864E-2D94C371863B}.Release|Win32.Build.0 = Release|Win32
+		{F5CE7732-9978-4750-9BF3-FFE8738D5605}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F5CE7732-9978-4750-9BF3-FFE8738D5605}.Debug|Win32.Build.0 = Debug|Win32
+		{F5CE7732-9978-4750-9BF3-FFE8738D5605}.Release|Win32.ActiveCfg = Release|Win32
+		{F5CE7732-9978-4750-9BF3-FFE8738D5605}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
