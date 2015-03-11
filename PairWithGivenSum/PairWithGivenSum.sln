@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArrayRotation", "..\ArrayRo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaximumAlternateSum", "..\MaximumAlternateSum\MaximumAlternateSum.vcxproj", "{45D16C7B-9CE8-448A-9E20-4A2AF72C4284}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NumberOfDays", "..\NumberOfDays\NumberOfDays.vcxproj", "{295BBFE4-727B-4C79-9364-0C9CB33B47F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -55,6 +57,10 @@ Global
 		{45D16C7B-9CE8-448A-9E20-4A2AF72C4284}.Debug|Win32.Build.0 = Debug|Win32
 		{45D16C7B-9CE8-448A-9E20-4A2AF72C4284}.Release|Win32.ActiveCfg = Release|Win32
 		{45D16C7B-9CE8-448A-9E20-4A2AF72C4284}.Release|Win32.Build.0 = Release|Win32
+		{295BBFE4-727B-4C79-9364-0C9CB33B47F4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{295BBFE4-727B-4C79-9364-0C9CB33B47F4}.Debug|Win32.Build.0 = Debug|Win32
+		{295BBFE4-727B-4C79-9364-0C9CB33B47F4}.Release|Win32.ActiveCfg = Release|Win32
+		{295BBFE4-727B-4C79-9364-0C9CB33B47F4}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
