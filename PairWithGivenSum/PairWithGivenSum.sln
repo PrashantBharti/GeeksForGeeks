@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NumberOfDays", "..\NumberOf
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sagregate012", "..\Sagregate012\Sagregate012.vcxproj", "{A0D05173-BF1E-4A0B-BF68-A60AFBB25B22}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FarthestPoints", "..\FarthestPoints\FarthestPoints.vcxproj", "{8C834C1E-BB24-4632-9B3E-5F4336579662}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -67,6 +69,10 @@ Global
 		{A0D05173-BF1E-4A0B-BF68-A60AFBB25B22}.Debug|Win32.Build.0 = Debug|Win32
 		{A0D05173-BF1E-4A0B-BF68-A60AFBB25B22}.Release|Win32.ActiveCfg = Release|Win32
 		{A0D05173-BF1E-4A0B-BF68-A60AFBB25B22}.Release|Win32.Build.0 = Release|Win32
+		{8C834C1E-BB24-4632-9B3E-5F4336579662}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8C834C1E-BB24-4632-9B3E-5F4336579662}.Debug|Win32.Build.0 = Debug|Win32
+		{8C834C1E-BB24-4632-9B3E-5F4336579662}.Release|Win32.ActiveCfg = Release|Win32
+		{8C834C1E-BB24-4632-9B3E-5F4336579662}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
