@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2Stacks", "..\2Stacks\2Stac
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaxSumSubSeq", "..\MaxSumSubSeq\MaxSumSubSeq.vcxproj", "{A4327D57-6966-49F9-AF32-D4B06B854A7F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LongestIncresingSubsequence", "..\LongestIncresingSubsequence\LongestIncresingSubsequence.vcxproj", "{B235A5F3-BACC-4495-8F38-696D240AEE78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -85,6 +87,10 @@ Global
 		{A4327D57-6966-49F9-AF32-D4B06B854A7F}.Debug|Win32.Build.0 = Debug|Win32
 		{A4327D57-6966-49F9-AF32-D4B06B854A7F}.Release|Win32.ActiveCfg = Release|Win32
 		{A4327D57-6966-49F9-AF32-D4B06B854A7F}.Release|Win32.Build.0 = Release|Win32
+		{B235A5F3-BACC-4495-8F38-696D240AEE78}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B235A5F3-BACC-4495-8F38-696D240AEE78}.Debug|Win32.Build.0 = Debug|Win32
+		{B235A5F3-BACC-4495-8F38-696D240AEE78}.Release|Win32.ActiveCfg = Release|Win32
+		{B235A5F3-BACC-4495-8F38-696D240AEE78}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
